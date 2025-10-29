@@ -37,6 +37,6 @@ Eco Riders is a student innovation that turns busy roads into a source of clean 
 ---
 
 ## 📊 Project Presentation
-[📥 Download the PowerPoint Presentation](https://github.com/krishnaprasathas23mts-svg/Piezoelectric-road-Power-Generation-/raw/main/srm_presentation.pptx)
+[📥 Download the PowerPoint Presentation](https://github.com/krishnaprasathas23mts-svg/Piezoelectric-road-Power-Generation-/raw/main/srm%20presentation.pptx)
 
 ---
