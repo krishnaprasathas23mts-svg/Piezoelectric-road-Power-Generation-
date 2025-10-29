@@ -37,6 +37,6 @@ Eco Riders is a student innovation that turns busy roads into a source of clean 
 ---
 
 ## 📊 Project Presentation
-[📥 Download the PowerPoint Presentation](./srm_presentation.pptx)
+[📥 Download the PowerPoint Presentation](https://github.com/yourusername/your-repo-name/blob/presentation/srm_presentation.pptx)
 
 ---
